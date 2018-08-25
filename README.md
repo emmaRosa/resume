@@ -1,5 +1,5 @@
 # resume
 
-An oversized application for showing off some of my coding skills
+An application for showing off some of my coding skills
 
-See website in action
+See website in action (in development)
